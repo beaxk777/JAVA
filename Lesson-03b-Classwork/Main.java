@@ -8,7 +8,16 @@ class Main {
 
   void init(){
    
+    System.out.println("\"Hello\"");
+
+    System.out.println("one \ntwo \nthree");
     
+    System.out.println("\tErnest Porchetta");
+    
+  }
+
+  
+}
   }
 
   
