@@ -13,7 +13,10 @@ class Main {
     calculated sum and then display it.
     
 */
-   
+   int x1 = 10;
+   int x2 = 20;
+   int sum = x1+x2; 
+   System.out.println("the sum is :" + sum);
 
 
 /*  
